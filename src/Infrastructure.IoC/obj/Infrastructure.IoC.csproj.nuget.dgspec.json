@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\src\\Infrastructure.IoC\\Infrastructure.IoC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\src\\Infrastructure.IoC\\Infrastructure.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\Infrastructure\\Infrastructure.csproj",
-        "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\src\\Infrastructure.IoC\\Infrastructure.IoC.csproj",
+        "projectName": "Infrastructure.IoC",
+        "projectPath": "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\src\\Infrastructure.IoC\\Infrastructure.IoC.csproj",
         "packagesPath": "C:\\Users\\sofia.sesso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\src\\Infrastructure.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia.sesso\\AppData\\Roaming\\NuGet\\NuGet.Config"

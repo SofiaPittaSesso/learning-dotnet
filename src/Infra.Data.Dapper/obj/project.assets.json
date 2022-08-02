@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\Infrastructure\\Infrastructure.csproj",
-      "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\src\\Infra.Data.Dapper\\Infra.Data.Dapper.csproj",
+      "projectName": "Infra.Data.Dapper",
+      "projectPath": "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\src\\Infra.Data.Dapper\\Infra.Data.Dapper.csproj",
       "packagesPath": "C:\\Users\\sofia.sesso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\sofia.sesso\\Documents\\learning-dotnet\\src\\Infra.Data.Dapper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sofia.sesso\\AppData\\Roaming\\NuGet\\NuGet.Config"
